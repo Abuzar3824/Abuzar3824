@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on **Verifaith**
+- 🔭 Hi! 👋  Abuzar here**
 
 
 # 💻 Tech Stack:
