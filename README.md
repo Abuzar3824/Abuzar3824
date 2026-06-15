@@ -1,5 +1,5 @@
 
-- 🔭 Hi! 👋  Abuzar here**
+- 🔭 Hi! 👋  Abuzar here
 
 
 # 💻 Tech Stack:
