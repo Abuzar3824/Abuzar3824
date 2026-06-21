@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abuzar</h1>
-# 💫 About Me:
-Senior Ruby on Rails developer with 5+ years of experience building production SaaS applications and backend systems. I help businesses maintain, improve, and scale existing Ruby on Rails applications used by real users.<br><br>I specialize in Ruby on Rails, Hotwire (Turbo and Stimulus), and modern JavaScript frameworks like VueJS, ReactJS, and TypeScript. I’ve successfully delivered enterprise-level solutions for industries such as healthcare, education, finance, e-commerce, and social services.
+ 💫 About Me:
+Senior Ruby on Rails developer with years of experience building production SaaS applications and backend systems. I help businesses maintain, improve, and scale existing Ruby on Rails applications used by real users.<br><br>I specialize in Ruby on Rails, Hotwire (Turbo and Stimulus), and modern JavaScript frameworks like VueJS, ReactJS, and TypeScript. I’ve successfully delivered enterprise-level solutions for industries such as healthcare, education, finance, e-commerce, and social services.
 
 
 # 💻 Tech Stack:
